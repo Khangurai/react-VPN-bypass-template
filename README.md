@@ -1,8 +1,8 @@
 # react-VPN-bypass-template
 
-in vite.config.js
+in `vite.config.js`
 
-```js
+```javascript
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
@@ -13,5 +13,4 @@ export default defineConfig({
     port: 5173
   }
 })
-
 ```
